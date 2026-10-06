@@ -25,13 +25,13 @@ Total: **4,238** lines of code across **9** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.2 / 10**
+Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 1/27 approved changesets -- score normalized to 0
+- **Maintained** (3/10) — 4 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 3
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -50,12 +50,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last60d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 4 |
-| 90d | 2026-07-07 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last180d | 2026-04-08 | 0 | 0 | 0 | 0 | 0 | 4 |
-| 360d | 2025-10-10 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last720d | 2024-10-15 | 0 | 0 | 0 | 0 | 0 | 8 |
+| 30d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-07 | 0 | 0 | 0 | 0 | 0 | 4 |
+| 90d | 2026-07-08 | 0 | 0 | 0 | 0 | 0 | 4 |
+| last180d | 2026-04-09 | 0 | 0 | 0 | 0 | 0 | 4 |
+| 360d | 2025-10-11 | 0 | 0 | 0 | 0 | 0 | 4 |
+| last720d | 2024-10-16 | 0 | 0 | 0 | 0 | 0 | 8 |
 
 ## Improve this data
 
@@ -66,4 +66,4 @@ Install metadata for node-bcat lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:16:34Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:00:18Z._
